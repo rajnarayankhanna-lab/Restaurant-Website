@@ -1,4 +1,4 @@
-# Resturent-Website-
+# Restaurant-Website-
 
 # 🍽️ Restaurant Website
 
